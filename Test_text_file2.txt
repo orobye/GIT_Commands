@@ -1,2 +1,6 @@
 Test text file
+<<<<<<< HEAD
 Updated line
+=======
+Third change line
+>>>>>>> Feature_2
